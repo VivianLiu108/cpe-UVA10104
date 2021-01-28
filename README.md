@@ -1,4 +1,4 @@
-# cpe-10104
+# UVA10104
 AX + BY = D  
 input : A, B  
 output : X, Y, D(最大公因數,gcd)  
